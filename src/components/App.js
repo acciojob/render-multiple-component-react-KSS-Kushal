@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div id="main">
       <Card name={"Abc"} description={"xyz"} />
-      <Card name={"rdf"} description={"lhkjhk"} />
+      <Card name={"rdf"} description={"lhkjh"} />
     </div>
   )
 }
